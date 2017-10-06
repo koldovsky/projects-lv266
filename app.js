@@ -146,7 +146,7 @@ app.service('studentService', ['$q', function ($q) {
           "cvUrl": "https://www.linkedin.com/in/oleksandr-rubakha-0344b1149/"
         },
         {
-          "name": "Petro Yaschyshyn",
+          "name": "Petro Iashchyshyn",
           "websiteUrl": "https://petro8585.github.io/myproject/",
           "codeSourceUrl": "https://github.com/Petro8585",
           "cvUrl": "https://www.linkedin.com/in/petro-iashchyshyn-278029151/"
@@ -213,9 +213,9 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
           "name": "Vasyl Dumych",
-          "websiteUrl": "https://vdoom8.github.io/hapok3/index.html",
-          "codeSourceUrl": "https://github.com/vdoom8/hapok3",
-          "cvUrl": ""
+          "websiteUrl": "https://vdoom8.github.io/hapok/",
+          "codeSourceUrl": "https://github.com/vdoom8/hapok",
+          "cvUrl": "https://www.linkedin.com/in/vasyl-dumych-58019314b/"
         },
         {
           "name": "Volodymyr Batsyk",
