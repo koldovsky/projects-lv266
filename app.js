@@ -118,8 +118,8 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
           "name": "Kostiantyn Kondratiuk",
-          "websiteUrl": "",
-          "codeSourceUrl": "",
+          "websiteUrl": "https://kindermns.github.io/my-site/",
+          "codeSourceUrl": "https://github.com/Kindermns",
           "cvUrl": "https://www.linkedin.com/in/киндермен"
         },
         {
