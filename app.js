@@ -83,6 +83,7 @@ app.controller('AppCtrl', ['$scope', '$mdSidenav', 'studentService', function ($
     }
 
     $scope.getPhotoUrl = function(student) {
+        if (!student) return null;
         return student.photo || `images/students/${getLastName(student.name)}.jpg`;
     }
 
